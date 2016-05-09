@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_087f46a781135cb9057a1f6e5b58855d3ca856bb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_ddc5832fb169979027c6ff2a50faa546ab87a587/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_9cd8810de7501ef88f45efd0007abe173325b490/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_8a7895d26981038a2626d22693fd9ff4e7c3a7f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_f723f9f3e60fb05ef624e3d748696d6767523fb8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e194c7b40c9ada0b6520c08a32201e58e0e81cef">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0553045e8e9edca2a63830d7beba86f592d0b17/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_224bd4162e96f25b95634c64bc3eb64f0344a999/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="79e2b55b34002d4f83f4d75f7ae4312c59e98a47">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d1e969e1decbd51977bc36b611ca5b1c70a7dcca/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_919315c07dbdd1da834625cb052eb99bb747385b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40a6fbd08fdbb71c74751916201e5fd8694e16ca">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-1.4.0_c3baf0be00f266a8b74f09fb3349cf7b166e938a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_13b09e90361e99f9cf362a2f86f48c6d55890de3/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_f7d72c1bf6358949429ed4e3c2c967403098c188/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_ff3cfd5c76b347a5c1fd6ac5f9f6fca2dd309c79/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/gtulla/AndroidStudioProjects/TodoApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_aebf939dcaac3caa026bbfebfaf0908fae4fd9e5/classes.dex" />
+    </item>
+
+</items>
